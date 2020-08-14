@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on creating a personal portifolio
 - 🌱 I’m currently learning programming
 - 👯 I’m looking to collaborate on different web designs
